@@ -6,4 +6,4 @@ cnt2的作用是刷新数码管，cnt3的作用是显示斐波那契数列，如
 
 芯片为Cyclone IV E:EP4CE6E22C8,使用的开发板为睿智四代FPGA。  
 
-a_{i} =   \frac{1}{\sqrt{5} } [( \frac{1+\sqrt{5}}{2} )^{n} -(1-\sqrt{5}}{2} )^{n} ]
+ $ a_{i} =   \frac{1}{\sqrt{5} } [( \frac{1+\sqrt{5}}{2} )^{n} -(1-\sqrt{5}}{2} )^{n} ]  $
